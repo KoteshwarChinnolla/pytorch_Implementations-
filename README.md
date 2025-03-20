@@ -1,2 +1,2 @@
 Data sets
-[Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
+> 1. [Fashion MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist)

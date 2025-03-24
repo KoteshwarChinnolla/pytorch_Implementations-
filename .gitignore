@@ -1,3 +1,4 @@
 fashion-mnist_train.csv
+fashion-mnist_test.csv
 fmnist_small.csv
 .vscode/
